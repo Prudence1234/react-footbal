@@ -1,0 +1,42 @@
+{
+    "Leagues": [
+      {
+        "id": 1,
+        "image":"./Logo1.png.",
+        "name": "Man City",
+        "description": "Created in the 1880s as the “St Mark’s” football club"
+      },
+      {
+        "id": 2,
+        "image":"./Logo2.png.",
+        "name": "Liverpool",
+        "description": "started off with the Liverpool coat of arms"
+      },
+      {
+        "id": 3,
+        "image":"./Logo3.png.",
+        "name": "Chelsea",
+        "description": "began in 1905, when the club was first founded"
+      },
+      {
+        "id": 4,
+        "image":"./Logo4.png.",
+        "name": "Arsenal",
+        "description": " established more than 135 years ago as “Dial Square” in 1886"
+      },
+      {
+        "id": 5,
+        "image":"./Logo5.png.",
+        "name": "Manchester United",
+        "description": " the club was originally founded in 1878 as the Newton Health LYR football club"
+      },
+      {
+        "id": 6,
+        "image":"./Logo6.png.",
+        "name": "West Ham",
+        "description": "originally established as Thames Ironworks in 1895, more than 125 years ago"
+      }
+    ]
+  }
+
+ 
