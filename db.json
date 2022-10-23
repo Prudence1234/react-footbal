@@ -2,41 +2,122 @@
     "Leagues": [
       {
         "id": 1,
-        "image":"./Logo1.png.",
-        "name": "Man City",
-        "description": "Created in the 1880s as the “St Mark’s” football club"
+        "image":"Logo7.png"
+       
       },
       {
         "id": 2,
-        "image":"./Logo2.png.",
-        "name": "Liverpool",
-        "description": "started off with the Liverpool coat of arms"
+        "image":"Logo8.png"
+        
       },
       {
         "id": 3,
-        "image":"./Logo3.png.",
-        "name": "Chelsea",
-        "description": "began in 1905, when the club was first founded"
+        "image":"Logo9.png"
+       
       },
       {
         "id": 4,
-        "image":"./Logo4.png.",
-        "name": "Arsenal",
-        "description": " established more than 135 years ago as “Dial Square” in 1886"
+        "image":"Logo11.jpg"
+       
       },
       {
         "id": 5,
-        "image":"./Logo5.png.",
-        "name": "Manchester United",
-        "description": " the club was originally founded in 1878 as the Newton Health LYR football club"
+        "image":"Logo12.png"
+        
       },
       {
         "id": 6,
-        "image":"./Logo6.png.",
-        "name": "West Ham",
-        "description": "originally established as Thames Ironworks in 1895, more than 125 years ago"
+        "image":"Logo13.jfif"
+        
+      },
+      {
+        "id": 7,
+        "image":"Logo14.png"
+        
+      },
+      {
+        "id": 9,
+        "image":"Logo15.jfif"
+        
+      },
+      {
+        "id": 10,
+        "image":"Logo16.jpg"
+        
+      },
+      {
+        "id": 11,
+        "image":"Logo17.jfif"
+        
+      },
+      {
+        "id": 12,
+        "image":"Logo18.jfif"
+        
+      },
+      {
+        "id": 13,
+        "image":"Logo19.png"
+        
+      },
+      {
+        "id": 14,
+        "image":"Logo20.png"
+        
       }
-    ]
+    ],
+    "Standings":[
+      {
+       "id":1,
+      "images":"Logo1.png",
+      "name" : "Man City"
+      },
+      {
+      "id":2,
+     "images":"Logo2.png",
+     "name" : "Man united"
+      },
+      {
+      "id":3,
+      "images":"Logo3.png",
+      "name" : "Chhelsea"
+      },
+      {
+      "id":4,
+      "images":"Logo4.png",
+      "name" : "Arsenal"
+      },
+      {
+      "id":5,
+      "images":"Logo5.png",
+      "name" : "West Ham"
+      },
+      {
+      "id":6,
+      "images":"Logo6.png",
+      "name" : "Liverpool"
+      },
+      {
+        "id":7,
+        "images":"Logo21.png",
+        "name" : "Chelsea"
+        },
+        {
+        "id":8,
+        "images":"Logo22.png",
+        "name" : "Arsenal"
+        },
+        {
+        "id":9,
+        "images":"Logo23.png",
+        "name" : "West Ham"
+        },
+        {
+        "id":10,
+        "images":"Logo24.png",
+        "name" : "Liverpool"
+        }
+    ] 
   }
 
  

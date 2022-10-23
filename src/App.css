@@ -15,17 +15,16 @@
 }
 .content{
   min-height: 80vh;
-  justify-content: center;
-  text-align: center;
   margin: 40px 0;
   margin-bottom: 20px;
-  
+  margin-left: 35%;
 
 }
 .display{
-  display: inline-block;
-  width:  40%;
-  height: 60vh;
+  display: flex;
+  grid-template-columns: repeat(5,1fr);
+  width:  100%;
+  
   margin-top: 40px;
 }
 .footer{
